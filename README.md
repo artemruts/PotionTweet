@@ -1,6 +1,7 @@
 # PotionTweet
 
-**TODO: Add description**
+A simple Elixir app that tweets.
+Based on a Pluralsight course.
 
 ## Installation
 
