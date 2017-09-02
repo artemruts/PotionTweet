@@ -11,7 +11,7 @@ by adding `potion_tweet` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:potion_tweet, "~> 0.1.0"}
+    {:potion_tweet, "~> 0.0.1"}
   ]
 end
 ```
